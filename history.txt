@@ -1,0 +1,74 @@
+    1  yum update
+    2  sudo yum update
+    3  sudo -i
+    4  pwd
+    5  cd /var/lib/jenkins/.ssh
+    6  ls
+    7  ssh-keygen
+    8  ls
+    9  ssh-keygen
+   10  cd id_rsa
+   11  pwd
+   12  cd ~/.ssh
+   13  ls
+   14  id_rsa.pub
+   15  cat id_rsa.pub
+   16  history
+   17  pwd
+   18  cd ..
+   19  cd ~
+   20  pwd
+   21  sudo -i
+   22  pwd
+   23  cd .ssh
+   24  git clone git@github.com:kathiravans1984/FirstProject.git
+   25  ls
+   26  cd FirstProject/
+   27  ls
+   28  git status
+   29  git log
+   30  git config --list
+   31  cat ~/.gitconfig
+   32  ls
+   33  pwd
+   34  sudo su
+   35  ls
+   36  cd ~
+   37  ls
+   38  ls -la
+   39  cd ..
+   40  ls
+   41  cd /var/lib/genkins
+   42  cd /var/lib/jenkins
+   43  ls
+   44  ls -la
+   45  cd .ssh
+   46  ls
+   47  ls -la
+   48  cd ~
+   49  cd .ssh
+   50  ls
+   51  cd FirstProject/
+   52  ls
+   53  ls -la
+   54  cd .git/
+   55  ls
+   56  ls -la
+   57  git config user.name
+   58  git config user.email
+   59  git config --global user.email "kathiravans1984@gmail.com"
+   60  git config --global user.name "kathiravans1984"
+   61  git config user.name
+   62  git config user.email
+   63  git clone git@github.com:kathiravans1984/FirstProject.git
+   64  ls
+   65  pwd
+   66  history
+   67  git status
+   68  history >history.txt
+   69  ls
+   70  git status
+   71  cd FirstProject/
+   72  git status
+   73  git log
+   74  history >history.txt
